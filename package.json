@@ -1,0 +1,32 @@
+{
+  "name": "linux-lockscreen",
+  "version": "1.0.0",
+  "description": "Get or set lockscreen/screensaver wallpaper on Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fa7ad/linux-lockscreen.git"
+  },
+  "keywords": [
+    "wallpaper",
+    "gnome",
+    "linux",
+    "lockscreen"
+  ],
+  "author": {
+    "name": "Fahad Hossain",
+    "email": "8bit.demoncoder@gmail.com",
+    "url": "thewebaholic.ml"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fa7ad/linux-lockscreen/issues"
+  },
+  "homepage": "https://github.com/fa7ad/linux-lockscreen#readme",
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
