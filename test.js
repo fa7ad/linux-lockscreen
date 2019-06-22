@@ -4,7 +4,7 @@ var test = require('ava');
 var lockscreen = require('./');
 
 test(function (t) {
-	t.plan(4);
+	//t.plan(4);
 
 	var orignalImagePath;
 
