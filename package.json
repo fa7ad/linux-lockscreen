@@ -4,7 +4,7 @@
   "description": "Get or set lockscreen/screensaver wallpaper on Linux",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "ava test.js"
   },
   "repository": {
     "type": "git",
